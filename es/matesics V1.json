@@ -2,6 +2,7 @@
   "PlanetEarth": [
     {
       "materic": "Europa",
+      "country": "Belarus",
       "population": "9,5 millones",
       "CityCapital": "Minsk"
     },
@@ -19,7 +20,9 @@
     {
       "materic": "África",
       "country": "Egipto",
-      "population": "97,55 millones"
+      "population": "97,55 millones",
+      "CityCapital": "Cairoo",
+      "city": "fjdk"
     },
     {
       "materic": "Norteamérica",
@@ -30,6 +33,7 @@
     {
       "materic": "Sudamerica",
       "country": "Brasil",
+      "population": "209.3 milliont",
       "CityCapital": "Brasilia"
     }
   ]
