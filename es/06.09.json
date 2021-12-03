@@ -7,8 +7,7 @@
           "name": "Kinematics",
           "complexity": "average",
           "interest": "great",
-          "bool": true,
-          "dima": "Kira"
+          "bool": true
         },
         {
           "name": "Hydrodynamics",
